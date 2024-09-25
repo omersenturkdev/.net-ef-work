@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|c:\\users\\omer\\desktop\\proje\\form\\formwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|solutionrelative:formwork\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|c:\\users\\omer\\desktop\\proje\\form\\formwork\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|solutionrelative:formwork\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|c:\\users\\omer\\desktop\\proje\\form\\formwork\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|solutionrelative:formwork\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|c:\\users\\omer\\desktop\\proje\\form\\formwork\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|solutionrelative:formwork\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|c:\\users\\omer\\desktop\\proje\\form\\formwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE010868-DE62-4ADE-B79B-B5F1C1922BEB}|FormWork\\FormWork.csproj|solutionrelative:formwork\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormWork\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormWork\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:08:51.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "FormWork\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "FormWork\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:05:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "FormWork\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Models\\Repository.cs",
+              "RelativeToolTip": "FormWork\\Models\\Repository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:29:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FormWork\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "FormWork\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T14:13:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FormWork\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Omer\\Desktop\\Proje\\Form\\FormWork\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FormWork\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAxwFEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:16:20.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<Product>
+<div class="card card-body">
+    <form asp-action="Index" method="get">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-11">
+                    <select name="category" class="form-select" asp-items="@ViewBag.Categories">
+                        <option  value="0">Hepsi</option>
+                    </select>
+                </div>
+                <div class="col-md-1">
+                    <button type="submit" class="btn btn-primary">Filter</button>
+                </div>
+            </div>
+    </form>
+</div>
+
+<table class="table table-border table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th style="width: 100px;">Product Name</th>
+            <th>Price</th>
+            <th style="width: 100px;">Image</th>
+            <th>Edit</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var prd in @Model)
+        {
+            <tr>
+                <td>@prd.ProductId</td>
+                <td>@prd.ProductName</td>
+                <td>@prd.Price</td>
+                <td>
+                    <img src="~/img/@prd.Image" class="img-fluid" />
+                </td>
+                <td>
+                    <a asp-route-id="@prd.ProductId" asp-action="edit"  class="btn btn-primary">Edit</a>
+                    <a asp-route-id="@prd.ProductId" asp-action="delete" asp-controller="Home" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
